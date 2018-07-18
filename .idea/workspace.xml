@@ -1,0 +1,1266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="928c450a-2218-4258-8230-1b0526e619ea" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change afterPath="$PROJECT_DIR$/turoy.iml" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/AdditiveNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/AdditiveNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/ArrayAddition.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/ArrayAddition.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/BestMeetingPoint.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/BestMeetingPoint.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/BuySellStockProfit.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/BuySellStockProfit.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/CheckIfArrayElementsAreConsecutive.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/CheckIfArrayElementsAreConsecutive.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/ChunkMerge.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/ChunkMerge.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/CommonThreeSortedArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/CommonThreeSortedArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/ConvertAnArrayIntoDecreaseIncreaseFashion.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/CountInversionOfSize3.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/CountInversionOfSize3.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/CountSmallerOnRight.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/CountSmallerOnRight.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/DivideNumbersInEqualGroupWithClosestSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/DivideNumbersInEqualGroupWithClosestSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/DuplicateNumberDetection.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/DuplicateNumberDetection.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/DuplicateWithinkIndices.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/DuplicateWithinkIndices.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/FindElementsOccurringNByKTimesTetris.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/FindElementsOccurringNByKTimesTetris.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/FirstPositiveMissing.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/FirstPositiveMissing.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/Flip0sMaximum1s.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/Flip0sMaximum1s.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/FourSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/FourSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/GasStationCircle.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/GasStationCircle.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/GreedyTextJustification.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/GreedyTextJustification.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/GroupElementsInSizeM.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/GroupElementsInSizeM.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/HIndex.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/HIndex.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/IncreasingSubsequnceOfLength3WithMaxProduct.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/IncreasingSubsequnceOfLength3WithMaxProduct.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/IncreasingTripletSubsequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/IncreasingTripletSubsequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/JumpGame.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/JumpGame.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/KadaneWrapArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/KadaneWrapArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/KthElementInArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/KthElementInArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/KthLargestInTwoSortedArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/KthLargestInTwoSortedArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/LargerElementOnRight.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/LargerElementOnRight.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/LargestSubArrayWithEqual0sAnd1s.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/LargestSubArrayWithEqual0sAnd1s.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/LeetCodeCandy.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/LeetCodeCandy.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/LongestConsecutiveSubsequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/LongestConsecutiveSubsequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/LongestIncreasingSubSequenceOlogNMethod.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/LongestIncreasingSubSequenceOlogNMethod.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/LongestSameSumSpan.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/LongestSameSumSpan.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/LongestSubstringWithAtMost2Char.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/LongestSubstringWithAtMost2Char.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MaxNumberFromTwoArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MaxNumberFromTwoArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MaxProductSubarray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MaxProductSubarray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MaxRepeatingNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MaxRepeatingNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumGap.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MaximumGap.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumIminusJSuchThatAiGTAj.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MaximumIminusJSuchThatAiGTAj.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumMinimumArrangement.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MaximumMinimumArrangement.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumOfSubarrayOfSizeK.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MaximumOfSubarrayOfSizeK.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MaximumSumPathTwoArrays.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MaximumSumPathTwoArrays.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MeetingRooms.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MeetingRooms.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MinimumDistanceBetweenTwoNumbers.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MinimumDistanceBetweenTwoNumbers.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MinimumNumberFromSequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MinimumNumberFromSequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MinimumSortedWhichSortsEntireArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MinimumSortedWhichSortsEntireArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MissingRanges.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MissingRanges.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MoveAllZerosToEnd.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MoveAllZerosToEnd.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/MultiplyAllFieldsExceptOwnPosition.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/MultiplyAllFieldsExceptOwnPosition.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/NthElementOfCountNumberSequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/NthElementOfCountNumberSequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/NumberOfTrianglesInUnsortedArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/NumberOfTrianglesInUnsortedArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/PositiveAndNegativeNumberAlternatively.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/PositiveAndNegativeNumberAlternatively.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/PositiveAndNegativeNumberAlternativelyMaintainingOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/PositiveAndNegativeNumberAlternativelyMaintainingOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/RearrangeArrayPerIndex.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/RearrangeArrayPerIndex.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/RearrangeSuchThatArriBecomesArrArri.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/RearrangeSuchThatArriBecomesArrArri.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/ReorderArrayByIndex.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/ReorderArrayByIndex.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/RepeatingAndMissingNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/RepeatingAndMissingNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/RotationWithMaxSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/RotationWithMaxSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/SelfCrossing.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/SelfCrossing.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/ShortestPalindrome.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/ShortestPalindrome.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/SmallestIntegerNotRepresentedBySubsetSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/SmallestIntegerNotRepresentedBySubsetSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/SortedArrayTransformation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/SortedArrayTransformation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/StableMarriageProblem.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/StableMarriageProblem.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/SubarrayWithGivenSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/SubarrayWithGivenSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/SummaryRanges.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/SummaryRanges.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/ThreeSumSmallerThanTarget.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/ThreeSumSmallerThanTarget.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/TrappingWater.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/TrappingWater.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/TripletInArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/TripletInArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/TripletSumLessThanTotal.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/TripletSumLessThanTotal.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/TugOfWar.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/TugOfWar.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/WaterContainer.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/WaterContainer.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/WiggleSort.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/WiggleSort.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/array/ZigZagArrangement.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/array/ZigZagArrangement.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/ArithmeticProgressionSearch.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/ArithmeticProgressionSearch.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/BinarySearch.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/BinarySearch.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/CircularBinarySearch.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/CircularBinarySearch.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/CountNDistinctPairsWithDifferenceK.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/CountNDistinctPairsWithDifferenceK.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/FirstOccurrenceOfNumberInSortedArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/FirstOccurrenceOfNumberInSortedArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/FloorAndCeilingSortedArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/FloorAndCeilingSortedArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MedianOfTwoSortedArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/MedianOfTwoSortedArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MedianOfTwoSortedArrayOfDifferentLength.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/MedianOfTwoSortedArrayOfDifferentLength.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MinimumInSortedRotatedArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/MinimumInSortedRotatedArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MissingNumberInConsecutiveNumbers.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/MissingNumberInConsecutiveNumbers.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/MonotonicallyIncreasingFunctionBecomesPositive.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/NumberOfPairWithXPowerYGreaterThanYPowerX.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/NumberOfPairWithXPowerYGreaterThanYPowerX.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/PeakElement.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/PeakElement.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/SearchForRange.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/SearchForRange.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/SearchInsertPosition.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/SearchInsertPosition.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/SortedAndRotatedArraySearch.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/SortedAndRotatedArraySearch.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/binarysearch/SquareRootOfNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/binarysearch/SquareRootOfNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/AddTwoNumberInBinaryRepresentation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/AddTwoNumberInBinaryRepresentation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/BitRotation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/BitRotation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/ByteAsStorage.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/ByteAsStorage.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/CountBits.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/CountBits.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/CountingBitsTillNum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/CountingBitsTillNum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/DrawHorizontalLine.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/DrawHorizontalLine.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/FindNumberOccurringOnceOtherNumbers3Times.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/FindNumberOccurringOnceOtherNumbers3Times.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/GrayCode.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/GrayCode.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/InsertMintoNiTojBits.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/InsertMintoNiTojBits.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/MaxProductWordLength.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/MaxProductWordLength.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/MissingNumbers.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/MissingNumbers.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/NextHigherAndNextLowerWithSameNumberBits.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/NextHigherAndNextLowerWithSameNumberBits.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/NextPowerOf2.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/NextPowerOf2.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/NumberOccuringOddTimes.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/NumberOccuringOddTimes.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/NumberOfBitsFlipToConvertNToM.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/NumberOfBitsFlipToConvertNToM.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/RealNumberToBinary.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/RealNumberToBinary.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/RepeatedDnaSequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/RepeatedDnaSequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/ReverseBits.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/ReverseBits.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/SquareOfNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/SquareOfNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/SwapOddEvenBits.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/SwapOddEvenBits.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/SwapTwoBits.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/SwapTwoBits.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/bits/WinnerWithBeautifulNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/bits/WinnerWithBeautifulNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/BitonicSequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/BitonicSequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/BoxStacking.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/BoxStacking.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/BreakMultipleWordsWithNoSpaceIntoSpace.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/BurstBalloons.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/BurstBalloons.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CoinChanging.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/CoinChanging.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CoinChangingMinimumCoin.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/CoinChangingMinimumCoin.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CountAs.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/CountAs.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CountNumberOfBinaryWithoutConsecutive1s.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/CountNumberOfBinaryWithoutConsecutive1s.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CountNumberOfTreePreorder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/CountNumberOfTreePreorder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CountNumberOfTreesInBST.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/CountNumberOfTreesInBST.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CutRodToMinimizeCost.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/CutRodToMinimizeCost.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/CuttingRod.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/CuttingRod.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/DecodeWays.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/DecodeWays.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/DiceThrowWays.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/DiceThrowWays.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/DistinctSubsequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/DistinctSubsequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/DungeonGame.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/DungeonGame.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/EditDistance.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/EditDistance.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/EggDropping.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/EggDropping.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/ExpressionEvaluation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/ExpressionEvaluation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/FibonacciSeries.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/FibonacciSeries.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/Immutable2DSumRangeQuery.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/Immutable2DSumRangeQuery.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/Knapsack01.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/Knapsack01.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestCommonSubsequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/LongestCommonSubsequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestCommonSubstring.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/LongestCommonSubstring.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestEvenLengthSubstringOfEqualHalf.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/LongestEvenLengthSubstringOfEqualHalf.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestIncreasingPath.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/LongestIncreasingPath.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestIncreasingSubsequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/LongestIncreasingSubsequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/LongestPalindromicSubsequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/LongestPalindromicSubsequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MatrixMultiplicationCost.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MatrixMultiplicationCost.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaxSumForNonAdjacentElements.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MaxSumForNonAdjacentElements.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximizeSkiGates.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MaximizeSkiGates.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumLengthChainPair.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MaximumLengthChainPair.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumProductCutting.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MaximumProductCutting.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumRectangularSubmatrixOf1s.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MaximumRectangularSubmatrixOf1s.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumSizeSubMatrix.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MaximumSizeSubMatrix.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MaximumSumSubsequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MaximumSumSubsequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinCostPath.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MinCostPath.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinJumpToReachEnd.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MinJumpToReachEnd.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinimumCostTrainTicket.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MinimumCostTrainTicket.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinimumNumberOfPerfectSquares.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MinimumNumberOfPerfectSquares.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/MinimumTriangleSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/MinimumTriangleSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/NPotGold.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/NPotGold.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/NumberOfPathsInMxNMatrix.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/NumberOfPathsInMxNMatrix.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/NumberOfWaysToScorePoints.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/NumberOfWaysToScorePoints.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/OptimalTreeSearch.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/OptimalTreeSearch.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/PaintHouse.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/PaintHouse.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/PalindromePartition.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/PalindromePartition.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/PhoneDialNumberOfCombinationOfSizeK.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/PhoneDialNumberOfCombinationOfSizeK.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/RegexMatching.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/RegexMatching.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/RemoveFromEndToMake2IntoMinGreaterThanMax.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/RemoveFromEndToMake2IntoMinGreaterThanMax.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/ScrambledString.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/ScrambledString.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/StockBuySellKTransactions.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/StockBuySellKTransactions.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/SubRectangularMatrixWithMaximumSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/SubRectangularMatrixWithMaximumSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/SubsetSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/SubsetSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/SubsquareSurrounedByXs.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/SubsquareSurrounedByXs.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/SymbolExpressionEvaluation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/SymbolExpressionEvaluation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/TextJustification.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/TextJustification.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/TwoStringInterleavingToFormThird.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/TwoStringInterleavingToFormThird.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/UglyNumbers.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/UglyNumbers.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/WeightedJobSchedulingMaximumProfit.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/WeightedJobSchedulingMaximumProfit.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/dynamic/WildCardMatching.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/dynamic/WildCardMatching.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/geometry/ClosestPairOfPoints.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/geometry/ClosestPairOfPoints.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/geometry/GrahamScanConvexHull.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/geometry/GrahamScanConvexHull.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/geometry/JarvisMarchConvexHull.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/geometry/JarvisMarchConvexHull.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/geometry/MaximumPointsOnSameLine.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/geometry/MaximumPointsOnSameLine.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/geometry/SkylineDrawing.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/geometry/SkylineDrawing.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/AlientDictionary.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/AlientDictionary.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/AllCyclesInDirectedGraphJohnson.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/AllCyclesInDirectedGraphJohnson.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/AllCyclesInDirectedGraphTarjan.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/AllCyclesInDirectedGraphTarjan.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/ArticulationPoint.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/ArticulationPoint.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/BellmanFordShortestPath.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/BellmanFordShortestPath.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/BinaryMaxHeap.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/BinaryMaxHeap.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/BinaryMinHeap.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/BinaryMinHeap.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/BiparteGraph.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/BiparteGraph.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/Boggle.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/Boggle.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/Bridge.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/Bridge.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/CloneDirectedGraph.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/CloneDirectedGraph.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/CloneGraph.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/CloneGraph.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/ConvertOneWordToAnother.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/ConvertOneWordToAnother.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/CourseSchedule.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/CourseSchedule.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/CycleInDirectedGraph.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/CycleInDirectedGraph.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/CycleUndirectedGraph.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/CycleUndirectedGraph.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/DAGShortestPathTopological.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/DAGShortestPathTopological.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/DijkstraShortestPath.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/DijkstraShortestPath.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/DirectedGraphConnectivity.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/DirectedGraphConnectivity.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/DisjointSet.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/DisjointSet.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/EulerianPathAndCircuit.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/EulerianPathAndCircuit.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/EvaluateDivison.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/EvaluateDivison.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/FillOsWIthXsIfSurroundedByXs.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/FillOsWIthXsIfSurroundedByXs.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/FloodFillAlgorithm.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/FloodFillAlgorithm.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/FloydWarshallAllPairShortestPath.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/FloydWarshallAllPairShortestPath.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/FordFulkerson.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/FordFulkerson.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/Graph.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/Graph.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/GraphColoring.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/GraphColoring.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/GraphTraversal.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/GraphTraversal.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/HamiltonianCycle.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/HamiltonianCycle.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/KruskalMST.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/KruskalMST.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/MaximumBiparteMatching.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/MaximumBiparteMatching.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/MinimumHeightTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/MinimumHeightTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/NumberOfIsland.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/NumberOfIsland.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/NumberOfIslandDynamic.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/NumberOfIslandDynamic.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/NumberofTriangles.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/NumberofTriangles.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/PrimMST.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/PrimMST.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/PrintAllPathFromSourceToDestination.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/PrintAllPathFromSourceToDestination.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/ShortestDistanceFromExit.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/ShortestDistanceFromExit.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/StronglyConnectedComponent.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/StronglyConnectedComponent.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/TarjanStronglyConnectedComponent.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/TarjanStronglyConnectedComponent.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/TopologicalSort.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/TopologicalSort.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/TransitiveClosure.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/TransitiveClosure.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/TravelingSalesmanHeldKarp.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/TravelingSalesmanHeldKarp.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/ValidTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/ValidTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/WallsAndGates.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/WallsAndGates.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/graph/WordLadder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/graph/WordLadder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/AddNumberRepresentedByLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/AddNumberRepresentedByLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/CopyLinkListWIthArbitPointer.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/CopyLinkListWIthArbitPointer.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/DeleteDuplicateNodes.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/DeleteDuplicateNodes.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/DeleteNAfterMNodes.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/DeleteNAfterMNodes.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/DeleteNodeWithGreaterValueOnRight.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/DeleteNodeWithGreaterValueOnRight.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/DoubleLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/DoubleLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/Flatten2DList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/Flatten2DList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/FlattenLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/FlattenLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/InsertionSortLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/InsertionSortLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/LRUCache.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/LRUCache.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/LRUCacheLeetCode.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/LRUCacheLeetCode.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/LinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/LinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/LinkListIsPalindrome.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/LinkListIsPalindrome.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/LinkListToCompleteBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/LinkListToCompleteBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/LoopInLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/LoopInLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/MergeForLargestSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/MergeForLargestSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/MergeSortLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/MergeSortLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/MiddleElementOfLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/MiddleElementOfLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/MultiplyTwoNumbersLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/MultiplyTwoNumbersLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/QuickSortSingleLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/QuickSortSingleLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/RemoveDuplicatesSortedList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/RemoveDuplicatesSortedList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/RemoveMiddleElementsOfLineSegment.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/RemoveMiddleElementsOfLineSegment.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/ReorderList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/ReorderList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/ReverseAlternateKNodes.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/ReverseAlternateKNodes.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/ReverseAlternateNodeAndAppendAtEnd.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/ReverseAlternateNodeAndAppendAtEnd.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/ReverseKNodes.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/ReverseKNodes.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/RotateList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/RotateList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/ShuffleMerge.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/ShuffleMerge.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/SortNearlySortedList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/SortNearlySortedList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/SortedCircularLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/SortedCircularLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/SortedLLToBalancedBST.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/SortedLLToBalancedBST.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/StackWithLinkListMiddleOperation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/StackWithLinkListMiddleOperation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/SwapTwoNodesInDoubleLL.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/SwapTwoNodesInDoubleLL.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/linklist/TripletToSumInLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/linklist/TripletToSumInLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/AddingTwoSetOfIntervals.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/AddingTwoSetOfIntervals.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/AngleBetweenHourAndMinuteHand.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/AngleBetweenHourAndMinuteHand.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/BulbSwitcher.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/BulbSwitcher.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/CandiesProblem.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/CandiesProblem.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/ContainsNumberWithinKDistance.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/ContainsNumberWithinKDistance.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/ConvertNumberIntoBase26.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/ConvertNumberIntoBase26.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/CountRanges.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/CountRanges.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/DayDifferenceBetweenTwoDates.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/DayDifferenceBetweenTwoDates.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/DifferenceBetweenTwoTime.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/DifferenceBetweenTwoTime.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/FindingCelebrity.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/FindingCelebrity.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/FloatPointConversion.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/FloatPointConversion.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/FourPointsFormSquare.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/FourPointsFormSquare.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/GetKthPermutation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/GetKthPermutation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/HammingDistanceBetweenPair.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/HammingDistanceBetweenPair.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/InsertInterval.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/InsertInterval.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/IntegerListParser.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/IntegerListParser.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/KthLargestInRowiseColumnWiseSorted2DArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/KthLargestInRowiseColumnWiseSorted2DArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/LoadBalancers.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/LoadBalancers.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/NestedIterator.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/NestedIterator.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/NumberToWord.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/NumberToWord.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/PrimeNumbersBeforeN.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/PrimeNumbersBeforeN.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/Read4Function.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/Read4Function.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/RomanNumberToDecimal.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/RomanNumberToDecimal.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/misc/SparseTableRangeMinimumQuery.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/misc/SparseTableRangeMinimumQuery.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/Fill2DMatrixWith1.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/Fill2DMatrixWith1.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/GameOfLife.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/GameOfLife.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/LongestConsecutiveIntegerInUnsorted2DArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/LongestConsecutiveIntegerInUnsorted2DArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MatrixCalculation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/MatrixCalculation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MatrixFindAllSubSquareRectangleMatrix.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/MatrixFindAllSubSquareRectangleMatrix.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MatrixInDiagonalOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/MatrixInDiagonalOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MatrixOf0sAnd1s.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/MatrixOf0sAnd1s.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/MoveCellPerCellValue.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/MoveCellPerCellValue.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/Mutable2DSumRangeQuery.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/Mutable2DSumRangeQuery.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/RotateImage.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/RotateImage.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/ShortestDistanceFromAllBuildings.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/ShortestDistanceFromAllBuildings.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/SmallestRectangleBlackPixel.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/SmallestRectangleBlackPixel.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/SpiralGeneration.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/SpiralGeneration.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/SpiralPrinting.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/SpiralPrinting.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multiarray/TilingProblem.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multiarray/TilingProblem.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/BoundedBlockingQueue.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/BoundedBlockingQueue.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/CountingWord.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/CountingWord.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/DependencyTaskExecutor.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/DependencyTaskExecutor.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/FillupMatrix.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/FillupMatrix.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/MinMaxKeeper.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/MinMaxKeeper.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/PrintInSequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/PrintInSequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/RealTimeCounter.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/RealTimeCounter.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/SingleQueueDomainTableUpdate.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/SingleQueueDomainTableUpdate.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/SpinLockMutex.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/SpinLockMutex.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/ThreadPoolExample.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/ThreadPoolExample.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/multithreaded/ThreadPoolImpl.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/multithreaded/ThreadPoolImpl.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/AggregateNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/AggregateNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/AllStrobogrammaticNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/AllStrobogrammaticNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/ArithemeticProgressionExists.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/ArithemeticProgressionExists.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/ArrayMultiplication.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/ArrayMultiplication.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/BasicCalculator.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/BasicCalculator.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/BinomialCoefficient.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/BinomialCoefficient.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/ConvertToBaseN.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/ConvertToBaseN.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/CountNoOf2s.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/CountNoOf2s.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/CountNumbersNotIncluding4.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/CountNumbersNotIncluding4.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/DivisionWithoutDivisionOperator.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/DivisionWithoutDivisionOperator.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/EuclideanAlgoForGCD.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/EuclideanAlgoForGCD.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/FactorialOfLargeNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/FactorialOfLargeNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/GenerateSignature.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/GenerateSignature.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/LargestMultipleOf3inArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/LargestMultipleOf3inArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/LuckyNumbers.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/LuckyNumbers.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/MedianOf3Number.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/MedianOf3Number.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/MthNumberInNSizeArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/MthNumberInNSizeArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/NBy2PairSumToK.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/NBy2PairSumToK.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/NextLargestPalindrome.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/NextLargestPalindrome.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/NotIncluding4.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/NotIncluding4.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/NumberOfCombinationsForStairs.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/NumberOfCombinationsForStairs.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/PermutationBiggerThanNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/PermutationBiggerThanNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/PermutationLargerThanGivenArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/PermutationLargerThanGivenArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/PowerFunction.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/PowerFunction.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/RearrangeNumberInArrayToFormLargestNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/RearrangeNumberInArrayToFormLargestNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/RussianPeasantMultiplication.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/RussianPeasantMultiplication.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/SmallestNumberGreaterThanGiveNumberIncreasingSequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/SmallestNumberGreaterThanGiveNumberIncreasingSequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/SquareRoot.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/SquareRoot.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/StrobogrammaticNumber.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/StrobogrammaticNumber.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/Trailing0sinFactorial.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/Trailing0sinFactorial.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/number/UniquePartitionOfInteger.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/number/UniquePartitionOfInteger.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/playground/TestInnerClass.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/playground/TestInnerClass.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/random/Rand7UsingRand5.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/random/Rand7UsingRand5.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/random/RandomCountrySelectionByPopluation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/random/RandomCountrySelectionByPopluation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/random/SelectMRandomNumbersInStream.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/random/SelectMRandomNumbersInStream.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/random/ShuffleArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/random/ShuffleArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/AllAdjacentCombination.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/AllAdjacentCombination.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/Bracketology.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/Bracketology.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/ChainWordsToFormCircle.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/ChainWordsToFormCircle.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/Combination.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/Combination.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/CombinationOfSizeK.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/CombinationOfSizeK.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/CombinationWithStar.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/CombinationWithStar.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/DifferentWaysToAddParentheses.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/DifferentWaysToAddParentheses.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/FancyShuffle.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/FancyShuffle.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/InterpretationOfArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/InterpretationOfArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/KeyPadPermutation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/KeyPadPermutation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/LongestAbsolutePath.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/LongestAbsolutePath.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/MinimumEditForReversePolishNotation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/MinimumEditForReversePolishNotation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/NQueenProblem.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/NQueenProblem.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/OneEditApart.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/OneEditApart.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/OperatorAdditionForTarget.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/OperatorAdditionForTarget.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/OptimalDivision.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/OptimalDivision.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintAllPathFromTopLeftToBottomRight.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/PrintAllPathFromTopLeftToBottomRight.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintAllSubsequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/PrintAllSubsequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintArrayInAdjacentWay.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/PrintArrayInAdjacentWay.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintArrayInCustomizedFormat.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/PrintArrayInCustomizedFormat.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/PrintSumCombination.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/PrintSumCombination.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/ReconstructItinerary.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/ReconstructItinerary.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/RemoveInvalidParenthesis.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/RemoveInvalidParenthesis.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/RestoreIPAddresses.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/RestoreIPAddresses.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/SetPairTogether.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/SetPairTogether.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/StringInterleaving.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/StringInterleaving.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/StringPermutation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/StringPermutation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/StringPermutationRotation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/StringPermutationRotation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/SudokuSolver.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/SudokuSolver.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/WordCombination.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/WordCombination.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/recursion/WordPattern.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/recursion/WordPattern.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/regex/MultiSpaceReplacement.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/regex/MultiSpaceReplacement.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/sort/CountingSort.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/sort/CountingSort.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/sort/HeapSort.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/sort/HeapSort.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/sort/IterativeQuickSort.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/sort/IterativeQuickSort.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/sort/MergeSort.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/sort/MergeSort.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/sort/PanCakeSorting.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/sort/PanCakeSorting.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/sort/QuickSort.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/sort/QuickSort.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/sort/RadixSort.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/sort/RadixSort.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/sort/Sort0toN3.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/sort/Sort0toN3.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/sort/SortArrayByFrequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/sort/SortArrayByFrequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/CircularQueue.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/CircularQueue.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/MaximumHistogram.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/MaximumHistogram.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/MedianFinder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/MedianFinder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/RealTimeCounter.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/RealTimeCounter.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/RealTimeCounterUsingCircularQueue.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/RealTimeCounterUsingCircularQueue.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/RemoveDuplicateMaintainingOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/RemoveDuplicateMaintainingOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/RemoveExtraBrackets.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/RemoveExtraBrackets.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/ReverseStackUsingRecursion.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/ReverseStackUsingRecursion.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/SimplyPath.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/SimplyPath.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/stackqueue/StockSpanProblem.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/stackqueue/StockSpanProblem.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/AnagramOfFirstAsSubstring.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/AnagramOfFirstAsSubstring.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/CycleLeaderIteration.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/CycleLeaderIteration.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/GroupAnagramsTogether.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/GroupAnagramsTogether.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/InPlaceTransformationOfString.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/InPlaceTransformationOfString.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/LexicographicRankInPermutation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/LexicographicRankInPermutation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/LongestPalindromeSubstring.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/LongestPalindromeSubstring.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/LongestSubstringWithKDistinctCharacters.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/LongestSubstringWithKDistinctCharacters.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/LongestSubstringWithoutRepetingCharacter.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/LongestSubstringWithoutRepetingCharacter.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/MultiplyStrings.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/MultiplyStrings.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/NTMatch.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/NTMatch.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/PalindromePair.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/PalindromePair.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/PrintAnagramTogether.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/PrintAnagramTogether.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/RabinKarpSearch.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/RabinKarpSearch.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/RearrangeDuplicateCharsdDistanceAway.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/RearrangeDuplicateCharsdDistanceAway.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/RemoveConsecutiveDuplicate.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/RemoveConsecutiveDuplicate.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/RunLengthEncoding.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/RunLengthEncoding.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/SmallestWindowContaingAllCharacters.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/SmallestWindowContaingAllCharacters.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/StringEncoderDecoder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/StringEncoderDecoder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/SubstringSearch.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/SubstringSearch.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/SubtringWithConcatentationOfWords.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/SubtringWithConcatentationOfWords.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/ValidPalindrome.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/ValidPalindrome.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/ValidWordAbbreviation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/ValidWordAbbreviation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/WordAbbreviationCombination.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/WordAbbreviationCombination.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/string/ZAlgorithm.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/string/ZAlgorithm.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/suffixprefix/SuffixArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/suffixprefix/SuffixArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/suffixprefix/SuffixTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/suffixprefix/SuffixTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/suffixprefix/TernaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/suffixprefix/TernaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/suffixprefix/Trie.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/suffixprefix/Trie.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/AVLTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/AVLTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/AddGreaterValueNodeToEveryNode.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/AddGreaterValueNodeToEveryNode.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ArbitaryTreeToChildSumTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ArbitaryTreeToChildSumTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BSTOneChildPreOrderTraversal.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BSTOneChildPreOrderTraversal.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BSTSearch.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BSTSearch.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeFromParentRepresentation.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BinaryTreeFromParentRepresentation.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeMaximumPathSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BinaryTreeMaximumPathSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeToCircularLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BinaryTreeToCircularLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeToDoubleLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BinaryTreeToDoubleLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BinaryTreeToSortedLinkList.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BinaryTreeToSortedLinkList.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/BoundaryTraversal.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/BoundaryTraversal.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ClosestValueBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ClosestValueBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ConnectNodesAtSameLevel.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ConnectNodesAtSameLevel.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructAllBinaryTreeFromInorderTraversal.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ConstructAllBinaryTreeFromInorderTraversal.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructBSTFromPreOrderArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ConstructBSTFromPreOrderArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructFullTreeFromPreOrderPostOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ConstructFullTreeFromPreOrderPostOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructTreeFromInOrderPreOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ConstructTreeFromInOrderPreOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructTreeFromLevelOrderInOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ConstructTreeFromLevelOrderInOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ConstructTreeFromPreOrderTraversalWith0or2Child.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ConstructTreeFromPreOrderTraversalWith0or2Child.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ContructTreeFromInOrderTraversalRootGreaterThanChild.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ContructTreeFromInOrderTraversalRootGreaterThanChild.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/ContructTreeFromInorderPostOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/ContructTreeFromInorderPostOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/CountNodesCompleteTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/CountNodesCompleteTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/CountNumberOfSmallerElementOnRight.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/CountNumberOfSmallerElementOnRight.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/CountPathSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/CountPathSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/CountUnivalueTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/CountUnivalueTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/CousinNodes.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/CousinNodes.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/DegenerateBinaryTreeToSortedLL.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/DegenerateBinaryTreeToSortedLL.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/DiameterOfTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/DiameterOfTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/FenwickTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/FenwickTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/FlattenLinkListToBinaryTreePreorder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/FlattenLinkListToBinaryTreePreorder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/HeightBalanced.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/HeightBalanced.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/HuffmanEncoding.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/HuffmanEncoding.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/IdenticalTrees.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/IdenticalTrees.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/InorderSuccessor.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/InorderSuccessor.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/IntervalTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/IntervalTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/IsBST.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/IsBST.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/IsCompleteBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/IsCompleteBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/IsPreOrderArrayBST.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/IsPreOrderArrayBST.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/KClosestValueInBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/KClosestValueInBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/LargestBSTInBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/LargestBSTInBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/LargestIndependentSetInTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/LargestIndependentSetInTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/LeavesOfBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/LeavesOfBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/LevelOrderTraversal.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/LevelOrderTraversal.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/LevelOrderTraversalInReverse.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/LevelOrderTraversalInReverse.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/LongestConsecutiveSequence.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/LongestConsecutiveSequence.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/LowestCommonAncestorInBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/LowestCommonAncestorInBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/LowestCommonAncestoryBinarySearchTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/LowestCommonAncestoryBinarySearchTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/MorrisTraversal.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/MorrisTraversal.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/NextInorderSuccessorIterator.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/NextInorderSuccessorIterator.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/NextInorderSuccessorOfTwoTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/NextInorderSuccessorOfTwoTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/NodesAtDistanceK.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/NodesAtDistanceK.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/NodesWithNoSibling.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/NodesWithNoSibling.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/PathSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/PathSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/PopulateInOrderSuccessor.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/PopulateInOrderSuccessor.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/PrintPostOrderFromPreOrderInOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/PrintPostOrderFromPreOrderInOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/PrintTwoBSTInSortedForm.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/PrintTwoBSTInSortedForm.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/RedBlackTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/RedBlackTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/RootToLeafToSum.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/RootToLeafToSum.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SameTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SameTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SegmentTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SegmentTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SegmentTreeMinimumRangeQuery.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SegmentTreeMinimumRangeQuery.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SerializeDeserializeBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SerializeDeserializeBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SinkNegativeToBottom.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SinkNegativeToBottom.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SizeOfBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SizeOfBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SortedArrayToBST.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SortedArrayToBST.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SortedOrderPrintCompleteTreeArray.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SortedOrderPrintCompleteTreeArray.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SuccinctTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SuccinctTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/SumTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/SumTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/TreeIsomorphism.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/TreeIsomorphism.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/TreeTraversalInSpiralOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/TreeTraversalInSpiralOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/TreeTraversalLevelByLevel.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/TreeTraversalLevelByLevel.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/TreeTraversals.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/TreeTraversals.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/UpsidedownBinaryTree.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/UpsidedownBinaryTree.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/VertexCoverBinaryTreeDP.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/VertexCoverBinaryTreeDP.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/VerticalOrder.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/VerticalOrder.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/src/com/interview/tree/VerticalTreePrinting.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/src/com/iv/tree/VerticalTreePrinting.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/TestUtil.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/TestUtil.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/array/AdditiveNumberTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/array/AdditiveNumberTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/array/ArrayAdditionTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/array/ArrayAdditionTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/array/MaximumMinimumArrangementTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/array/MaximumMinimumArrangementTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/array/MeetingRoomsTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/array/MeetingRoomsTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/array/MultiplyAllFieldsExceptOwnPositionTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/array/MultiplyAllFieldsExceptOwnPositionTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/array/NumberOfTriangledInUnsortedArrayTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/array/NumberOfTriangledInUnsortedArrayTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/array/ThreeSumSmallerThanTargetTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/array/ThreeSumSmallerThanTargetTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/bits/CountingBitsTillNumTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/bits/CountingBitsTillNumTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/bits/MaxProductWordLengthTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/bits/MaxProductWordLengthTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/dynamic/DecodeWaysTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/dynamic/DecodeWaysTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/dynamic/PalindromePartitionTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/dynamic/PalindromePartitionTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/graph/CourseScheduleTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/graph/CourseScheduleTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/graph/TravelingSalesmanHeldKarpTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/graph/TravelingSalesmanHeldKarpTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/graph/WallsAndGatesTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/graph/WallsAndGatesTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/linklist/DeleteDuplicateNodesTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/linklist/DeleteDuplicateNodesTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/misc/IntegerListParserTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/misc/IntegerListParserTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/multiarray/Mutable2DSumRangeQueryTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/multiarray/Mutable2DSumRangeQueryTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/number/AllStrobogrammaticNumberTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/number/AllStrobogrammaticNumberTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/number/BasicCalculatorTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/number/BasicCalculatorTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/recursion/RestoreIPAddressesTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/recursion/RestoreIPAddressesTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/string/LongestSubstringWithKDistinctCharactersTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/string/LongestSubstringWithKDistinctCharactersTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/string/PalindromePairTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/string/PalindromePairTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/string/StringEncoderDecoderTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/string/StringEncoderDecoderTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/string/ValidPalindromeTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/string/ValidPalindromeTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/string/ValidWordAbbreviationTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/string/ValidWordAbbreviationTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/suffixprefix/TrieTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/suffixprefix/TrieTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/tree/KClosestValueInBinaryTreeTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/tree/KClosestValueInBinaryTreeTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+      <change beforePath="$PROJECT_DIR$/test/com/interview/tree/VerticalOrderTest.java" beforeDir="$SP_SCHEDULER_ENABLE$" afterPath="$PROJECT_DIR$/test/com/iv/tree/VerticalOrderTest.java" afterDir="$SP_SCHEDULER_ENABLE$" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="$SP_SCHEDULER_ENABLE$" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="$SP_SCHEDULER_ENABLE$" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DependencyTaskExecutor.java" pinned="$SP_SCHEDULER_ENABLE$" current-in-tab="$SP_SCHEDULER_ENABLE$">
+        <entry file="file://$PROJECT_DIR$/src/com/iv/multithreaded/DependencyTaskExecutor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="$SP_SCHEDULER_ENABLE$" current-in-tab="$SP_SCHEDULER_ENABLE$">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="BoundaryTraversal.java" pinned="$SP_SCHEDULER_ENABLE$" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/iv/tree/BoundaryTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-bin/452syho4l32rlk2s8ivdjogs8/gradle-2.11" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2.11" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="turoy" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="turoy" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'turoy'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'turoy'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'turoy'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'turoy'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'turoy'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'turoy'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jacocoTestReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'turoy'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'turoy'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/.gradle/gradle.properties" value="3294530782" />
+        <entry key="$PROJECT_DIR$" value="6112476963000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="4221736994" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1492264489" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="turoy" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/testing-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/testing-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-base-services-groovy-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-base-services-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-core-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-open-api-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-model-groovy-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-cli-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-ui-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-wrapper-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-launcher-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-native-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-resources-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-messaging-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-docs-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/groovy-all-2.4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-tooling-api-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/gradle-model-core-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-osgi-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-language-java-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-diagnostics-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-ide-native-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-tooling-api-builders-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-testing-native-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-platform-native-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-language-jvm-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-build-comparison-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-ear-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-testing-base-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-signing-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-publish-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-testing-jvm-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-jetty-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-resources-s3-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-ivy-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-language-native-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-announce-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-resources-http-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-ide-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-maven-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-scala-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-platform-base-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-language-scala-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-build-init-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-resources-sftp-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-plugins-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-sonar-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-reporting-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-plugin-use-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-language-groovy-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-platform-jvm-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-javascript-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-code-quality-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-dependency-management-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-plugin-development-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-antlr-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-jacoco-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-platform-play-2.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.11-all/ace7yl0a7udokebb27mt9s3qr/gradle-2.11/lib/plugins/gradle-test-kit-2.11.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../opensource/spock-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../brokerage-account-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../event-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+        <entry key="$PROJECT_DIR$/../../platform-trade-subscription" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../platform-trade-subscription-service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/interview/multithreaded/DependencyTaskExecutor.java" />
+        <option value="$PROJECT_DIR$/src/com/iv/multithreaded/DependencyTaskExecutor.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/com/iv/tree/BoundaryTraversal.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1029" />
+    <option name="y" value="35" />
+    <option name="width" value="1676" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="turoy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="turoy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="turoy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="turoy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="turoy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="turoy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="iv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="$SP_SCHEDULER_ENABLE$" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AddingTwoSetOfIntervals">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="AddingTwoSetOfIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iv.misc.AddingTwoSetOfIntervals" />
+      <module name="turoy_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iv.misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="turoy" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="$SP_SCHEDULER_ENABLE$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="$SP_SCHEDULER_ENABLE$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="$SP_SCHEDULER_ENABLE$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="$SP_SCHEDULER_ENABLE$" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="$SP_SCHEDULER_ENABLE$" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Twisted Trial">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="$SP_SCHEDULER_ENABLE$" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="$SP_SCHEDULER_ENABLE$" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="$SP_SCHEDULER_ENABLE$" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Groovy.build" />
+      <item itemvalue="Application.AddingTwoSetOfIntervals" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AddingTwoSetOfIntervals" />
+        <item itemvalue="Groovy.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="928c450a-2218-4258-8230-1b0526e619ea" name="Default" comment="" />
+      <created>1531939361569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531939361569</updated>
+      <workItem from="1531939365050" duration="811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="811000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1029" y="35" width="1676" height="1048" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="$SP_SCHEDULER_ENABLE$" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info anchor="bottom" id="Build" weight="0.32912722" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" weight="0.32912722" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.249694" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32912722" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/iv/multithreaded/DependencyTaskExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/iv/tree/BoundaryTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
